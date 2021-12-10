@@ -1,3 +1,3 @@
-# Interactive Sound Art interface Bridged via Electriacal Listening
+# Interactive Sound Art interface Bridged via Electrical Listening
 
 Creative machine
